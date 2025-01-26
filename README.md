@@ -21,4 +21,4 @@ uv run evo_msgsender_test.py
 streamlit run st_evo_msgsender.py
 
 ## Important
-Deploy EvolutionAPI Docker
+Deploy EvolutionAPI Docker (Containers: Evo2, Redis, Postgress)
