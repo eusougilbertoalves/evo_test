@@ -15,7 +15,7 @@ client = EvolutionClient(
 )
 
 text_message = TextMessage(
-    number="5561992793401",
+    number="DDI+DDD+9+Nº_TELEFONE",
     text="Esta mensagem é para testes do EvolutionAPI v2!"
 )
 
