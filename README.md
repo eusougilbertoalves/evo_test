@@ -1,5 +1,8 @@
 # Testes com EvolutionAPI
 
+## Init Project
+uv init
+
 ## uv venv
 ### Create
 uv venv
@@ -10,8 +13,8 @@ source .venv/bin/activate
 ### Deactivate
 deactivate
 
-## Init Project
-uv init
+## Install Packages
+uv add <package>
 
 ## Install Requirements
 uv pip install -r requirements.txt
