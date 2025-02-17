@@ -3,20 +3,10 @@
 ## Init Project
 uv init
 
-## uv venv
-### Create
-uv venv
-
-### Activate
-source .venv/bin/activate
-
-### Deactivate
-deactivate
-
 ## Install Packages
 uv add <package>
 
-## Install Requirements
+## Install Based On Requirements File
 uv pip install -r requirements.txt
 
 ## Run
@@ -25,3 +15,15 @@ streamlit run st_evo_msgsender.py
 
 ## Important
 Deploy EvolutionAPI Docker (Containers: Evo2, Redis, Postgress)
+
+
+
+## Deprecated
+### Create
+uv venv
+
+### Activate
+source .venv/bin/activate
+
+### Deactivate
+deactivate
